@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.16.0",
+    "ember-fetch": "^6.2.2",
     "ember-cli-htmlbars": "^3.0.0"
   },
   "devDependencies": {
